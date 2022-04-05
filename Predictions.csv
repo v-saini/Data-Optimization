@@ -1,0 +1,77 @@
+Name of the Nucleophile,Type Of Nucleophile,Solvent,N,predictions,Residue
+"1,1,3,3-Tetramethylguanidine",N-Nucleophile,Dichloromethane,13.58,13.59,0.01
+Aspartate (dianionic),N-Nucleophile,Water,13.81,13.73,0.08
+Phenolate,O-Nucleophile,MeCN,18.53,18.64,0.11
+2-Methyl-but-1-ene,C-Nucleophile,Dichloromethane,1,0.87,0.13
+5-methoxy-2-methylindole,C-Nucleophile,MeCN,7.26,7.41,0.15
+4-Acetamido-pyridine ,N-Nucleophile,MeCN,13.24,13.07,0.17
+Bromoborane-triethylamine-complex,H-Nucleophile,Dichloromethane,7.49,7.31,0.18
+(2-Methylallyl)benzene,C-Nucleophile,Dichloromethane,0.25,0.02,0.23
+1H-indole-5-carboxylic acid,C-Nucleophile,MeCN,3.97,4.24,0.27
+1-Methylcyclohex-1-ene,C-Nucleophile,Dichloromethane,0.08,0.36,0.28
+4-(Dimethylamino)pyridine ,N-Nucleophile,DMSO,14.8,15.15,0.35
+n-Propylamine (in DMSO),N-Nucleophile,DMSO,15.7,15.34,0.36
+Methyl(phenyl)silane,H-Nucleophile,Dichloromethane,2.13,1.76,0.37
+"2,4-Dimethyl-imidazole ",N-Nucleophile,MeCN,11.51,11.13,0.38
+Isopropanolate ,O-Nucleophile,Propan-2-ol,17.03,16.65,0.38
+p-Cyanophenolate,O-Nucleophile,MeCN,19.58,19.11,0.47
+Dimethyl(neopentyl)silane,H-Nucleophile,Dichloromethane,3.55,3.06,0.49
+4-(dimethylamino)pyridine (in THF),N-Nucleophile,THF,15.9,15.4,0.5
+Tris((butyldimethylsilyl)methyl)silane,H-Nucleophile,Dichloromethane,3.73,3.14,0.59
+2-Cyclopropylpropene,C-Nucleophile,Dichloromethane,2.6,1.95,0.65
+"1-(trimethylsiloxy)-3,4-dihydronaphthalene (in MeCN)",C-Nucleophile,MeCN,5.06,5.72,0.66
+DBU ,N-Nucleophile,MeCN,15.29,14.61,0.68
+Methylenecyclononane,C-Nucleophile,Dichloromethane,2.57,1.89,0.68
+Diethylamine ,N-Nucleophile,MeCN,15.1,15.83,0.73
+Hypochlorite ,O-Nucleophile,Water,14.5,15.25,0.75
+"2,3-Dihydrobenzo[d]imidazo[2,1-b]thiazole",N-Nucleophile,Dichloromethane,13.42,14.22,0.8
+"(S)-2-Phenyl-3,4-dihydro-2H-benzo[4,5]thiazolo[3,2-a]pyrimidine",N-Nucleophile,Dichloromethane,13.45,14.27,0.82
+"4,5-Dimethyl-1,3-dioxolane (anti)",H-Nucleophile,Dichloromethane,-2.4,-3.22,0.82
+Aniline ,N-Nucleophile,Water,12.99,13.85,0.86
+Benzylamine ,N-Nucleophile,MeCN,14.29,13.36,0.93
+Ethyldimethylsilane,H-Nucleophile,Dichloromethane,3.3,2.36,0.94
+"1,2-dimethylindole",C-Nucleophile,Dichloromethane,6.54,7.53,0.99
+"N-(3,3-dimethylbut-1-en-2-yl)acetamide",C-Nucleophile,MeCN,4.61,5.67,1.06
+p-(Trifluoromethyl)phenolate ,O-Nucleophile,DMSO,18.98,20.08,1.1
+"2,5-Dimethyl-hexa-1,5-diene",C-Nucleophile,Dichloromethane,1.14,0.02,1.12
+Dihexylsilane,H-Nucleophile,Dichloromethane,2.27,3.39,1.12
+hydantoin anion (in DMSO),N-Nucleophile,DMSO,17.52,16.39,1.13
+3-Methylpyridine,N-Nucleophile,Dichloromethane,10.9,12.05,1.15
+Me2S=CH-CO2Et (in DMSO),C-Nucleophile,DMSO,15.85,17.04,1.19
+DABCO (in MeCN),N-Nucleophile,MeCN,18.8,17.58,1.22
+"1,2,3,5,6,7-hexahydroimidazo[1,2-a]pyrimidine (TBN)",N-Nucleophile,Dichloromethane,16.15,14.87,1.28
+Borane-triethylamine-complex,H-Nucleophile,Dichloromethane,8.9,7.56,1.34
+methylhydrazine (in water),N-Nucleophile,Water,17.23,15.88,1.35
+"2,3,4,6,7,8-hexahydro-1H-pyrimido[1,2-a]pyrimidine",N-Nucleophile,Dichloromethane,16.16,14.77,1.39
+"2,2,2-Trifluoroethanolate",O-Nucleophile,Water,12.66,14.11,1.45
+Guanosine anion ,N-Nucleophile,Water,12.09,13.56,1.47
+Hydroxylamine,N-Nucleophile,Water,11.41,12.89,1.48
+2-Formyl-imidazole anion ,N-Nucleophile,Water,11.07,12.56,1.49
+Tris((dimethyl(phenyl)silyl)methyl)silane,H-Nucleophile,Dichloromethane,3.4,1.78,1.62
+(4-Me2N-C6H4)-(CO)-CH=SMe2 (in DMSO),C-Nucleophile,DMSO,15.68,17.31,1.63
+methanesulfonamide anion (in DMSO),N-Nucleophile,DMSO,18.61,16.91,1.7
+1-(p-Tolyl)-1-(trimethylsilyl)ethene,C-Nucleophile,Dichloromethane,-0.65,1.15,1.8
+p-Nitrobenzoate ,O-Nucleophile,Acetone,18.74,16.86,1.88
+Methylenecyclopentane,C-Nucleophile,Dichloromethane,2.82,0.9,1.92
+Allyltriphenylsilane,C-Nucleophile,Dichloromethane,-0.13,1.81,1.94
+"(S,E)-2-(diphenyl(trimethylsiloxy)methyl)-1-styrylpyrrolidine",C-Nucleophile,MeCN,10.56,8.58,1.98
+tert-Butylamine ,N-Nucleophile,Water,10.48,12.51,2.03
+sodium indenide (in DMSO),C-Nucleophile,DMSO,23.74,25.82,2.08
+4-Methoxypyridine ,N-Nucleophile,Dichloromethane,13.7,11.61,2.09
+2-Carboperoxybenzoate ,O-Nucleophile,Water,18.43,16.18,2.25
+1-(triphenylsiloxy)cyclopentene,C-Nucleophile,Dichloromethane,5.76,3.5,2.26
+(5-methyl-furan-2-yl) pinacol boronate,C-Nucleophile,MeCN,2.9,5.19,2.29
+"lithium 2-allyl-4,4,5,5-tetramethyl-2-phenyl-1,3,2-dioxaborolan-2-uide (in MeCN)",C-Nucleophile,MeCN,11.2,8.65,2.55
+benzimidazole anion (in DMSO),N-Nucleophile,DMSO,19.13,16.52,2.61
+Theophylline anion ,N-Nucleophile,Water,10.06,12.92,2.86
+"1,1-dimethyl-2-methylenehydrazine (in CH2Cl2)",N-Nucleophile,Dichloromethane,19.31,16.42,2.89
+N-(1-(p-tolyl)vinyl)acetamide,C-Nucleophile,Dichloromethane,6.57,3.35,3.22
+2-Sulfidoacetate ,S-Nucleophile,Water,22.62,19,3.62
+"3,5-Dinitrobenzoate",O-Nucleophile,Acetone,18.8,15.16,3.64
+"2,5-Dimethyl-benzimidazole ",N-Nucleophile,DMSO,10.21,13.89,3.68
+anion of (benzylsulfonyl)benzene (in DMSO),C-Nucleophile,DMSO,25.77,21.9,3.87
+Water,O-Nucleophile,Water,5.2,9.64,4.44
+trimethylhydrazine (in MeCN),N-Nucleophile,MeCN,17.75,13.17,4.58
+1-(benzylideneamino)-2-ethoxy-2-oxoethan-1-ide (in DMSO),C-Nucleophile,DMSO,29.1,23.79,5.31
+Diethyl diazomalonate,C-Nucleophile,Dichloromethane,-0.35,5.15,5.5
+chloro(phenylsulfonyl)methanide (in DMSO),C-Nucleophile,DMSO,28.27,20.51,7.76
